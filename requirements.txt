@@ -3,3 +3,5 @@ nltk
 scikit-learn
 scipy
 numpy
+ipywidgets
+jupyter
