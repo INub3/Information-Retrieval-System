@@ -135,8 +135,8 @@ Cada documento incluye: ID, título, empresa, carreras requeridas, descripción
 - ✅ Construcción de índice invertido
 - ✅ Procesamiento de lenguaje natural en español
 - ✅ Interfaz interactiva para consultas
-- 🔄 (Próximo) Recuperación semántica con embeddings
-- 🔄 (Próximo) Evaluación con métricas (Precision, Recall, MAP)
+- ✅ Recuperación semántica con embeddings
+- ✅ Evaluación con métricas (Precision, Recall, MAP)
 
 ### 📄 Notas
 
@@ -146,6 +146,6 @@ Cada documento incluye: ID, título, empresa, carreras requeridas, descripción
 - Ideal para análisis educativo y comparación de modelos
 
 ---
-**Autor:** Leandro Bravo  
+**Autor:** Leandro Bravo, Michael Enríquez y Aubertin Ochoa
 **Fecha:** Mayo 2026  
 **Curso:** Recuperación de Información
